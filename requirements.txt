@@ -1,0 +1,4 @@
+opencv-contrib-python
+mediapipe==0.10.32; python_version < "3.13"
+numpy==1.26.4
+pyautogui
